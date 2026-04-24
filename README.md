@@ -33,7 +33,7 @@ about main(char a[1000]) {
         "Loves coding and Astronomy…;",
         "Likes to code in C // learning Complex Databases;",
         "Active Competitive Programmer who loves to code <##Easy code##>;",
-        "Learning VLSI programming <side hustle>;"
+        "Learning Embedded Systems <side hustle>;"
     };
     
     return Me;
