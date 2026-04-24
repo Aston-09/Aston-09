@@ -178,6 +178,13 @@ about main(char a[1000]) {
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00599C?logo=googlechrome&logoColor=white&style=for-the-badge)](https://portfolio-three-green-7bf5yjacbg.vercel.app/)
+
+<br>
+
+
+<br>
+
 **💬 Feel free to reach out for collaborations, CP discussions, or just to talk about the cosmos!**
 
 </div>
