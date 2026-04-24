@@ -45,10 +45,10 @@ about main(char a[1000]) {
 <!-- CURRENTLY WORKING ON -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;**Currently Working On**
 
-- 🔭 &nbsp;Building my **personal portfolio** with Next.js & Three.js
+- 🔭 &nbsp;Working on **Web development** with Typescript and Next.js
 - 🧠 &nbsp;Diving deep into **Complex Databases** & SQL optimization
 - ⚡ &nbsp;Sharpening skills on **competitive programming** platforms
-- 🔬 &nbsp;Exploring **VLSI programming** as a side hustle
+- 🔬 &nbsp;Exploring **Embedded Systems** as a side hustle
 - 🌌 &nbsp;Stargazing when the code compiles...
 
 ---
@@ -63,7 +63,7 @@ about main(char a[1000]) {
 </div>
 
 - 🏅 &nbsp;Active competitive programmer — always chasing that green ✅
-- 🧩 &nbsp;Focused on problem-solving, DSA, and algorithmic thinking
+- 🧩 &nbsp;Focused on problem-solving and algorithmic thinking
 - ⚔️ &nbsp;Loves tackling `##Easy code##` challenges and working up the ladder
 
 ---
@@ -166,56 +166,6 @@ about main(char a[1000]) {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aston-09&bg_color=0d1117&color=00599C&line=00599C&point=c9d1d9&area=true&area_color=00599C&hide_border=true&custom_title=Aston's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </div>
 
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aston-09&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!-- TOP CONTRIBUTED REPOS -->
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aston-09&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00599C&text_color=c9d1d9" width="80%" alt="Top Contributed Repos"/>
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aston-09/Aston-09/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aston-09/Aston-09/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Aston-09/Aston-09/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-<!-- PHILOSOPHY -->
-## 💡 Philosophy
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════╗
-  ║                                                      ║
-  ║   "Code. Compile. Debug. Stargaze. Repeat."          ║
-  ║                                                      ║
-  ║   Consistency + Discipline + Curiosity                ║
-  ║            = Long-term Success 🚀                    ║
-  ║                                                      ║
-  ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <!-- CONNECT WITH ME -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
