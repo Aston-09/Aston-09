@@ -172,8 +172,8 @@ about main(char a[1000]) {
 
 <div align="center">
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/u/Dimension_23)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@AxnAston)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)]((https://www.reddit.com/u/Dimension_23/s/qHZE8xpxuT))
+[![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/AxnAston)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@aston_axn)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aston.axn@gmail.com)
 
