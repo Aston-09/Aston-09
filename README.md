@@ -28,7 +28,7 @@
 
 about main(char a[1000]) {
     a = { 
-        "I'm Aston, a CS <2nd sem> undergrad;",
+        "I'm Aston, a CS <3rd sem> undergrad;",
         "Actively looking for opportunities to upscale myself;",
         "Loves coding and Astronomy…;",
         "Likes to code in C // learning Complex Databases;",
